@@ -39,3 +39,5 @@ def predict_datapoint():
         #at this point if we click on the submit button then it goes to the post method which is above.
 if __name__=="__main__":
     app.run(debug=True)
+
+    #for the deployment we need to make one folder called (".ebextentions")
